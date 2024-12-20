@@ -23,6 +23,8 @@ I enjoy working on **cloud computing** and **data analysis** projects. 🚀
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)  
 ![Visual Studio 2019](https://img.shields.io/badge/Visual%20Studio%202019-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) 
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 
 ---
 
