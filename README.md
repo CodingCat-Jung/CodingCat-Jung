@@ -49,8 +49,8 @@ I enjoy working on **cloud computing** and **data analysis** projects. 🚀
 ---
 
 ### ✨ Fun Facts
-- 🌟 I love learning new technologies and diving into challenging problems.  
-- 🐱 A proud cat enthusiast who enjoys coding with a furry friend by my side!  
+- 🌟 I like taking on challenges rather than giving up and regretting. 
+- 🐱 I love traveling to different places around the world. 
 - 📚 Lifelong learner passionate about cloud computing and AI.
 
 ---
