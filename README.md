@@ -26,7 +26,6 @@ I enjoy working on **cloud computing** and **data analysis** projects. 🚀
 ### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingCat-Jung&layout=compact&theme=radical)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingCat-Jung&show_icons=true&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=CodingCat-Jung&theme=radical)](https://git.io/streak-stats)
 
 ---
 
