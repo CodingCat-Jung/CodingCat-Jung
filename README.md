@@ -55,7 +55,7 @@ I enjoy working on **cloud computing** and **data analysis** projects. 🚀
 ---
 
 ### 🏅 Certifications
-[![Credly Badge](https://img.shields.io/badge/Certification-Credly%20Badge-blue?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/bc35c913-8e48-4ce4-83bd-19f828490069/public_url)
+[![Azure AI Fundamentals Badge](https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/bc35c913-8e48-4ce4-83bd-19f828490069/public_url)
 
 ---
 
