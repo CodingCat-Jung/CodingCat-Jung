@@ -54,6 +54,11 @@ I enjoy working on **cloud computing** and **data analysis** projects. 🚀
 
 ---
 
+### 🏅 Certifications
+[![Credly Badge](https://img.shields.io/badge/Certification-Credly%20Badge-blue?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/bc35c913-8e48-4ce4-83bd-19f828490069/public_url)
+
+---
+
 ### ✨ Fun Facts
 - 🌟 I like taking on challenges rather than giving up and regretting. 
 - 🐱 I love traveling to different places around the world. 
