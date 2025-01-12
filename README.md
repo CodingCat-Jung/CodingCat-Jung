@@ -45,9 +45,6 @@ I enjoy working on **cloud computing** and **data analysis** projects. 🚀
 ### 🚀 Current Projects
 - 🛠️ **Traffic Accident Analysis in Seoul**  
   Using Python and Pandas to analyze traffic accident data and visualize key trends.
-  
-- 🌐 **Personal Color-Based Clothing App**  
-  Developing a cloud-based virtual fitting room with real-time AR support.
 
 - ☁️ **Cloud Migration**  
   Migrating a PHP/MySQL-based web service to Google Cloud and AWS.
