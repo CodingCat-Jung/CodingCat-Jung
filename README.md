@@ -45,8 +45,8 @@ I enjoy working on **cloud computing** and **data analysis** projects. 🚀
 ---
 
 ### 🚀 Current Projects
-- 🛠️ **Traffic Accident Analysis in Seoul**  
-  Using Python and Pandas to analyze traffic accident data and visualize key trends.
+- 🛠️ **Making Seoul a Smart City**  
+  Data analysis project for traffic accident prediction & real-time response system, optimization of public transportation congested sections, smart security system, and crisis response system
 
 - ☁️ **Cloud Migration**  
   Migrating a PHP/MySQL-based web service to Google Cloud and AWS.
