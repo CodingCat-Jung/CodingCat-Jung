@@ -22,8 +22,7 @@ I enjoy working on **cloud computing** and **data analysis** projects. 🚀
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
 ![Visual Studio 2019](https://img.shields.io/badge/Visual%20Studio%202019-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)  
 
