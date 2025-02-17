@@ -31,8 +31,7 @@ I enjoy working on **cloud computing** and **data analysis** projects. 🚀
 
 ---
 
-### 🌐 Connect with Me
-<a href="https://www.instagram.com/myeong_h_01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>  
+### 🌐 Connect with Me  
 <a href="https://www.notion.so/6af38f962e434962a38487142a549b63"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="mailto:myeonghoon01@google.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>  
   
