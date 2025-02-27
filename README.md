@@ -42,8 +42,7 @@ I enjoy working on **cloud computing** and **data analysis** projects. 🚀
 - ☁️ **Cloud Migration**  
   Migrating a PHP/MySQL-based web service to Google Cloud and AWS.
 
-- 🛠️ **SMART TRIP Web APP**
-  
+- 🛠️ **SMART TRIP Web APP** 
   A web app that recommends travel destinations based on your style preferences
 
 ---
