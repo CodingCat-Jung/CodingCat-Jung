@@ -39,11 +39,11 @@ I enjoy working on **cloud computing** and **data analysis** projects. 🚀
 ---
 
 ### 🚀 Current Projects
-- 🛠️ **Making Seoul a Smart City**  
-  Data analysis project for traffic accident prediction & real-time response system, optimization of public transportation congested sections, smart security system, and crisis response system
-
 - ☁️ **Cloud Migration**  
   Migrating a PHP/MySQL-based web service to Google Cloud and AWS.
+
+- 🛠️ **SMART TRIP Web APP**
+  A web app that recommends travel destinations based on your style preferences
 
 ---
 
