@@ -62,4 +62,4 @@ I enjoy working on **cloud computing** and **data analysis** projects. 🚀
 
 ---
 
-Thank you for visiting my profile! Let's connect and build amazing projects together! 🚀
+Thank you for visiting my profile! 🚀
