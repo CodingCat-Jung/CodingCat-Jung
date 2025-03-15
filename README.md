@@ -1,6 +1,4 @@
-### Hi there! 👋 Welcome to my GitHub profile!
-
-I'm **CodingCat-Jung**, a passionate developer focused on creating innovative solutions! 🌟   
+### Hi there! 👋 Welcome to my GitHub profile!  
 
 ---
 
