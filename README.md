@@ -46,12 +46,22 @@
 ---
 
 ### 🏅 Certifications
-[![Azure AI Fundamentals Badge](https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/bc35c913-8e48-4ce4-83bd-19f828490069/public_url)  
 
-<img src="microsoft-certified-azure-ai-fundamentals.png" alt="Azure AI Fundamentals Badge" width="100"/>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/bc35c913-8e48-4ce4-83bd-19f828490069/public_url">
+        <img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI Badge"/>
+      </a>
+      <br/>
+      <img src="microsoft-certified-azure-ai-fundamentals.png" alt="Azure AI Fundamentals Badge" width="100"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ADsP-데이터분석%20준전문가-blue?style=for-the-badge" alt="ADsP Badge"/>
+    </td>
+  </tr>
+</table>
 
-
-![ADsP](https://img.shields.io/badge/ADsP-데이터분석%20준전문가-blue?style=for-the-badge)
 
 ---
 
