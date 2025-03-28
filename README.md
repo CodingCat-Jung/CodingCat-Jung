@@ -47,27 +47,26 @@
 
 ### 🏅 Certifications
 
-<p align="center">
+<div align="center">
 
   <!-- ADsP -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/ADsP-데이터분석%20준전문가-blue?style=for-the-badge" alt="ADsP Badge"/>
-    <br/>
-    <sub>📅 취득일: <strong>2024.06</strong></sub>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <div style="display: inline-block; margin: 0 40px; text-align: center;">
+    <img src="https://img.shields.io/badge/ADsP-데이터분석%20준전문가-005BAC?style=for-the-badge" alt="ADsP Badge"/>
+    <div style="margin-top: 6px; font-size: 14px;">📅 <strong>2024.06</strong></div>
+  </div>
 
   <!-- Azure AI Fundamentals -->
-  <a href="https://www.credly.com/badges/bc35c913-8e48-4ce4-83bd-19f828490069/public_url" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI Badge"/>
-    <br/>
-    <img src="microsoft-certified-azure-ai-fundamentals.png" alt="Azure AI Fundamentals Image" width="100"/>
-    <br/>
-    <sub>📅 취득일: <strong>2024.03</strong></sub>
-  </a>
+  <div style="display: inline-block; margin: 0 40px; text-align: center;">
+    <a href="https://www.credly.com/badges/bc35c913-8e48-4ce4-83bd-19f828490069/public_url">
+      <img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI Badge"/>
+    </a>
+    <div style="margin: 8px 0;">
+      <img src="microsoft-certified-azure-ai-fundamentals.png" alt="Azure AI Badge Image" width="100"/>
+    </div>
+    <div style="font-size: 14px;">📅 <strong>2024.03</strong></div>
+  </div>
 
-</p>
+</div>
 
 ---
 
