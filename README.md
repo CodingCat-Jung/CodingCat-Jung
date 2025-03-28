@@ -47,38 +47,27 @@
 
 ### 🏅 Certifications
 
-<div align="center">
+<h3 align="center">🏅 Certifications</h3>
 
-<table>
-  <tr>
-   <!-- Azure AI Fundamentals -->
-<td align="center" style="padding: 16px;">
-  <a href="https://www.credly.com/badges/bc35c913-8e48-4ce4-83bd-19f828490069/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI Badge"/>
-  </a>
-  <br/>
-  <img src="microsoft-certified-azure-ai-fundamentals.png" alt="Azure AI Fundamentals Image" width="100" style="margin: 8px 0;" />
-  <br/>
-  <span style="font-size: 14px; color: #555;">📅 <strong>취득일: 2024.03</strong></span>
-</td>
+<p align="center">
+  <!-- ADsP Badge -->
+  <div align="center" style="display: inline-block; margin: 20px;">
+    <img src="https://img.shields.io/badge/ADsP-데이터분석%20준전문가-blue?style=for-the-badge" alt="ADsP Badge"/>
+    <br/>
+    <span style="font-size: 14px;">📅 취득일: <strong>2024.06</strong></span>
+  </div>
 
-
-    <!-- Azure AI Fundamentals -->
-    <td align="center" style="padding: 16px;">
-      <a href="https://www.credly.com/badges/bc35c913-8e48-4ce4-83bd-19f828490069/public_url" target="_blank">
-        <img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI Badge"/>
-      </a>
-      <br/>
-      <img src="microsoft-certified-azure-ai-fundamentals.png" alt="Azure AI Fundamentals Image" width="100" style="margin: 8px 0;" />
-      <br/>
-      <span style="font-size: 14px; color: #555;">📅 <strong>취득일: 2024.03</strong></span>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
+  <!-- Azure AI Fundamentals Badge -->
+  <div align="center" style="display: inline-block; margin: 20px;">
+    <a href="https://www.credly.com/badges/bc35c913-8e48-4ce4-83bd-19f828490069/public_url" target="_blank">
+      <img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI Badge"/>
+    </a>
+    <br/>
+    <img src="microsoft-certified-azure-ai-fundamentals.png" alt="Azure AI Badge Image" width="100" style="margin-top: 8px;" />
+    <br/>
+    <span style="font-size: 14px;">📅 취득일: <strong>2024.03</strong></span>
+  </div>
+</p>
 
 ---
 
