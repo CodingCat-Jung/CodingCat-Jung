@@ -51,8 +51,6 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/ADsP-데이터분석%20준전문가-blue?style=for-the-badge" alt="ADsP Badge"/>
-      <br/>
-      <span>📅 취득일: 2022.11</span>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/bc35c913-8e48-4ce4-83bd-19f828490069/public_url">
@@ -60,8 +58,6 @@
       </a>
       <br/>
       <img src="microsoft-certified-azure-ai-fundamentals.png" alt="Azure AI Fundamentals Badge" width="100"/>
-      <br/>
-      <span>📅 취득일: 2024.12</span>
     </td>
   </tr>
 </table>
