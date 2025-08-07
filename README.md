@@ -44,7 +44,7 @@
 - ☁️ **Cloud Migration**  
   Migrating a PHP/MySQL-based web service to Google Cloud and AWS
 
-- 🧃 **Smart Vending Machine System**  
+- 🧃 **Vending Machine System**  
   A client-server based Java GUI vending machine management program with AES encryption,  
   real-time socket communication, and a Spring Boot web admin interface  
   → Features: inventory management, sales tracking, remote control, encrypted data sync
